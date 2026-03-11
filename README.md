@@ -1,3 +1,2 @@
 # LABA_2026
-1234 laba5laba5
-312312
+commit 13;27
